@@ -1,2 +1,3 @@
-Variability Examples
-Facebook and Instagram DIY/
+Variability Examples /
+
+Facebook and Instagram DIY /
