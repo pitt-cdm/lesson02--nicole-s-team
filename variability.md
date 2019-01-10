@@ -6,4 +6,4 @@ Digital Game: With any sort of game, depending on the options, you can produce a
 
 Google Search: With a google search users can search the same thing and get different results such as if they search "restaurants near me" and are in different cities they search will return different results.
 
-Black Mirror Netflix Movie 
+Black Mirror Netflix Movie: every decision that you make changes your adventure and outcome. There are different paths you are able to take and each path is determined by what choices you make when watching the movie 
