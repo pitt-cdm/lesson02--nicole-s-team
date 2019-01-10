@@ -1,6 +1,6 @@
 Variability Examples
 
-Facebook and Instagram DIY
+Facebook and Instagram Feeds
 
 Digital Game 
 
